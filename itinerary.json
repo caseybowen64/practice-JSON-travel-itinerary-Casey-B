@@ -1,0 +1,50 @@
+[{   
+    "Name of Trip": "Athens Trip with the girls",
+    "Traveler Information": {
+        "Name of Traveler":"Katy",
+        "Contact information":{
+            "Email": "katy@gmail.com",
+            "Phone": 2749274229
+        },
+        "Location": "Athens",
+        "Arrival Date": "Nov 1, 2026",
+        "Departure Date": "Nov 20, 2026",
+        "Activities": [
+            {"title": "snorkling",
+            "time": "10AM"
+            },
+            {"title": "swimming",
+            "time": "4PM"
+            },
+            {"title": "shopping",
+            "time": "2PM"
+            }  
+        ]
+
+    }   
+},
+{   
+    "Name of Trip": "France Solo Trip",
+    "Traveler Information": {
+        "Name of Traveler":"Robert",
+        "Contact information":{
+            "Email": "Robert@gmail.com",
+            "Phone": 2385882252
+        },
+        "Location": "Paris",
+        "Arrival Date": "July 10, 2026",
+        "Departure Date": "August 2, 2026",
+        "Activities": [
+            {"title": "wine tasting",
+            "time": "6PM"
+            },
+            {"title": "museums",
+            "time": "4PM"
+            },
+            {"title": "dining out",
+            "time": "2PM"
+            }  
+        ]
+
+    }   
+}]
